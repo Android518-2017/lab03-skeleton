@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Laboratoire Activité</string>
+    <string name="button">Commencer Activité Deux</string>
+    <string name="close">Fermer Activité</string>
+    <string name="m_1">Menu Article 1</string>
+    <string name="m_2">Menu Article 2</string>
+    <string name="menu_settings">Réglages</string>
+    <string name="onCreate">Appel onCreate():</string>
+    <string name="onDestroy">Appel onDestroy();</string>
+    <string name="onPause">Appel onPause();</string>
+    <string name="onRestart">Appel onRestart():</string>
+    <string name="onResume">Appel onResume():</string>
+    <string name="onStart">Appel onStart():</string>
+    <string name="onStop">Appel onStop():</string>
+    <string name="rotateMe">Tourner  l\'appareil</string>
+    <string name="title_activity_activity_two">Activité Deux</string>
+    <string name="welcome">Bienvenue à l\'activité deux (toucher la touche arrière pour arrêter)</string>
+</resources>
