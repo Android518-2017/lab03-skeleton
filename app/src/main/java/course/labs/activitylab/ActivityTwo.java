@@ -30,19 +30,6 @@ public class ActivityTwo extends Activity {
 	}
 
 	// lifecycle callback overrides
-
-	@Override
-	public void onDestroy(){
-		super.onDestroy();
-		destroy = (TextView) findViewById(R.id.destroy);
-		//Log cat print out
-		Log.i(TAG, "onDestroy called");
-		//TODO:  update the appropriate count variable & update the view
-		ActivityOne.onDestroyCount++;
-		String counter = String.valueOf(ActivityOne.onDestroyCount);
-		destroy.setText(getString(R.string.onDestroy) + " " + counter);
-	}
-
 	// TODO: implement 5 missing lifecycle callback methods
 
 	@Override

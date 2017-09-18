@@ -3,30 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\1534132\Desktop\lab03-skeleton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="H:\lab03-skeleton\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="C:\Users\1534132\Desktop\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_cf6966c4544e2956d59a12479c222c667259dcda\classes.dex" />
+        <dex dex="H:\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c729a859ce79afaeca7a45d050b082cc376ba8d6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\1534132\Desktop\lab03-skeleton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="H:\lab03-skeleton\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="79b835028527d99eafdbf5ee02068ea9c430611a">
-        <dex dex="C:\Users\1534132\Desktop\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6b2b1faf556d4c373e548d225819842f4d53e791\classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="C:\dev\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.0"
-        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
-        <dex dex="C:\Users\1534132\Desktop\lab03-skeleton\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_7272a7677f48689e09308dc8ec98e7567c167e65.jar" />
+        sha1="7943e4fdca3f6b887bd0101b8970e72e46c800ea">
+        <dex dex="H:\lab03-skeleton\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_86c12e57ed3a9583e8fd9e391457ad4aec39c64f\classes.dex" />
     </item>
 
 </items>
